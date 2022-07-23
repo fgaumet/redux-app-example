@@ -1,0 +1,10 @@
+form {
+    padding: 20px 0;
+    background-color: aquamarine;
+}
+
+label {
+    font-weight: 700;
+    display: block;
+    margin-bottom: 8px;
+}
